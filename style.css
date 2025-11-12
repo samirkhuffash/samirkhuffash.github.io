@@ -1,0 +1,50 @@
+.title{
+    border-style: dotted;
+    border-color: blue;
+    border-width: 5px;
+    width: 150px;
+    padding: 10px 20px 20px 10px;
+    margin: 0px;
+}
+
+h3{
+    color: brown;
+}
+
+.forms{
+    border-style: groove;
+    padding: 15px;
+}
+  
+.links #connction{
+    color:blue;
+}
+
+#link{
+    color: black;
+}
+
+.name{
+    margin-bottom: 20px;
+}
+
+.phone{
+    margin-bottom: 15px;
+}
+
+.radio{
+    margin-bottom: 20px;
+}
+
+.email{
+    margin-bottom: 20px;
+}
+
+#submit{
+    margin: 0px;
+}
+
+#range{
+    margin: 20px;
+}
+
